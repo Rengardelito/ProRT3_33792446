@@ -38,6 +38,13 @@
                                         <i class="fa-solid fa-mug-saucer"></i> QUIENES SOMOS
                                     </a>
                                 </li>
+                                
+                                <li class="nav-item">
+                                    <a class="nav-link mx-lg-2" href="<?php echo base_url('panel'); ?>">
+                                        <i class="fa-solid fa-mug-saucer"></i> Panel de Administrador
+                                    </a>
+                                </li>
+
                                 <li class="nav-item">
                                     <a class="nav-link mx-lg-2" href="<?php echo base_url('registro'); ?>"><i class="fas fa-address-card"></i> REGISTRO</a>
                                 </li>
